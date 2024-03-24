@@ -1,2 +1,2 @@
 # myMiniSQL
-Basic RDBMS built in CPP, comprises of fundamental CRUD operations.
+Basic RDBMS built in Java, comprises of fundamental CRUD operations.
